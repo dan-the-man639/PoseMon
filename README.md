@@ -1,6 +1,6 @@
 #Posemon
 - FUll video demo and explaination https://youtu.be/ax4fymmzmxQ
-- MoveNet Thunder to pin point body coordinates
+- MoveNet Thunder int8 to pin point body coordinates
 ![thumb1](https://github.com/dan-the-man639/PoseMon/assets/108316903/aff88399-ebf9-48ed-ac34-46f04162325a)
 
 -TensorFlow model trained with 900 images to classify position into categories
